@@ -1,6 +1,6 @@
 {
   "name": "cliflix",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "description": "Watch anything instantaneously, just write its name.",
   "bin": "dist/bin/index.js",
   "main": "dist/index.js",
@@ -51,6 +51,7 @@
     "temp": "^0.8.3",
     "torrent-search-api": "^1.0.16",
     "update-notifier": "^2.2.0",
+    "opn": "git://github.com/sindresorhus/opn.git",
     "webtorrent-cli": "git://github.com/IPLIVECO/webtorrent-cli.git"
   },
   "devDependencies": {
